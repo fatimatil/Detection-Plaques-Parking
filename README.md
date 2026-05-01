@@ -117,6 +117,6 @@ Caméra → Détection YOLO → Extraction ROI → OCR EasyOCR → Vérification
 
 ---
 
-## 📄 Licence
+## 🎓 Contexte académique
 
-Projet académique — Filière ADIA — 2025
+Projet Vision Par Ordinateur — Filière ADIA — 2025/2026
